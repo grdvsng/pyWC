@@ -1,4 +1,4 @@
-#Bad code, If i'll have time in futere, i would make new. 
+#Bad code, If i'll have time in future, i could make new.
 from sys import argv, path as syspath
 
 syspath.append(r'..\\')
