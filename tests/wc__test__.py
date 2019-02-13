@@ -1,3 +1,4 @@
+#Bad code, If i'll have time in futere, i would make new. 
 from sys import argv, path as syspath
 
 syspath.append(r'..\\')
